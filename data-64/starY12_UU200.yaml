@@ -12285,6 +12285,9 @@ Calibrations/tpc/TpcResponseSimulator:
   T0offsetI: 0.125872836
   T0offsetO: -0.00361778005
   FirstRowC: 0
+Calibrations/tpc/ResponseSimulator:
+  min_signal: 0.0001
+  electron_cutoff_energy: 0.001
 Calibrations/tpc/TpcRowQ:
   - type: 0
     idx: 0
