@@ -8849,7 +8849,7 @@ Calibrations/tpc/tpcGainCorrection:
     nrows: 2
     npar: 5
     OffSet: 0
-    min: -100
+    min: -500
     max: 100
     a: [7.1781773490000003, 0.0094702689000000003, 6.3058400000000001e-06, -6.0123099999999994e-08, -2.15159e-10, 0, 0, 0, 0, 0]
   - type: 0
@@ -8857,7 +8857,7 @@ Calibrations/tpc/tpcGainCorrection:
     nrows: 2
     npar: 4
     OffSet: 0
-    min: -100
+    min: -500
     max: 100
     a: [8.1781574379999995, 0.011480079000000001, -2.88086e-06, -1.5822900000000001e-07, 0, 0, 0, 0, 0, 0]
   - type: 0
