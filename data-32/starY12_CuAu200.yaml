@@ -12288,6 +12288,7 @@ Calibrations/tpc/TpcResponseSimulator:
 Calibrations/tpc/ResponseSimulator:
   min_signal: 0.0001
   electron_cutoff_energy: 0.001
+  nominal_magnetic_field: 4.979799
 Calibrations/tpc/TpcRowQ:
   - type: 0
     idx: 0
