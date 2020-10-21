@@ -16018,20 +16018,3 @@ tpc/tsspars/tsspar:
   x_laser: 0
   y_laser: 129.199997
   z_laser: 100
-RunLog/onl/beamInfo:
-  runNumber: 14161078
-  entryTag: 0
-  blueSpecies: PP
-  blueMassNumber: 0
-  blueEnergy: 0.938000023
-  blueIntensity: -0.214000002
-  blueLifeTime: 18901.1523
-  blueBunchIntensity: 0
-  yellowSpecies: PP
-  yellowMassNumber: 0
-  yellowEnergy: 0.938000023
-  yellowIntensity: 0.280999988
-  yellowLifeTime: 20258.3613
-  yellowBunchIntensity: 0
-  blueFillNumber: 17601
-  yellowFillNumber: 17601
